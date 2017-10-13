@@ -7373,7 +7373,7 @@ U 1 1 59CB3952
 P 2950 7900
 F 0 "P3" H 2950 8100 50  0000 C CNN
 F 1 "CONN_01X03" V 3050 7900 50  0000 C CNN
-F 2 "Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm" H 2950 7900 60  0000 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm" H 2950 7900 60  0001 C CNN
 F 3 "" H 2950 7900 60  0000 C CNN
 	1    2950 7900
 	0    1    1    0   
