@@ -1733,11 +1733,11 @@
      borderopacity="0.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="0"
-     inkscape:zoom="2.0198931"
-     inkscape:cx="287.62202"
-     inkscape:cy="243.02353"
+     inkscape:zoom="1.0099465"
+     inkscape:cx="207.84872"
+     inkscape:cy="227.93937"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer8"
+     inkscape:current-layer="layer5"
      showgrid="false"
      units="mm"
      inkscape:showpageshadow="false"
@@ -3363,18 +3363,18 @@
        inkscape:connector-curvature="0" />
     <text
        id="text32391"
-       y="645.46375"
-       x="606.02606"
+       y="500.09964"
+       x="627.92639"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:8.55000019px;line-height:12500%;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:8.55000019px;line-height:12500%;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#b3b3b3;fill-opacity:1"
-         y="645.46375"
-         x="606.02606"
+         y="500.09964"
+         x="627.92639"
          id="tspan32389"
          sodipodi:role="line">VCO</tspan></text>
     <rect
-       y="637.26849"
-       x="604.27954"
+       y="491.90439"
+       x="626.17987"
        height="10.251642"
        width="21.831169"
        id="rect78473-6"
@@ -4263,21 +4263,21 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:8.55000019px;line-height:12500%;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="783.19141"
-       y="645.46375"
+       x="805.73297"
+       y="500.09967"
        id="text8720"><tspan
          sodipodi:role="line"
          id="tspan8718"
-         x="783.19141"
-         y="645.46375"
+         x="805.73297"
+         y="500.09967"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:8.55000019px;line-height:12500%;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#b3b3b3;fill-opacity:1">VCF</tspan></text>
     <rect
        style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#b3b3b3;stroke-width:0.88582683;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect8722"
        width="21.831169"
        height="10.251642"
-       x="781.44489"
-       y="637.26849" />
+       x="803.98645"
+       y="491.90439" />
     <text
        id="text8732"
        y="509.75323"
@@ -5444,17 +5444,21 @@
          x="491.68726"
          y="687.82397"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:8.55000019px;line-height:12500%;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#b3b3b3;fill-opacity:1">HARD</tspan></text>
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#b3b3b3;stroke-width:1.0629921;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3552)"
-       d="m 504.23163,643.05488 v -4.12031"
-       id="path3548"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#b3b3b3;stroke-width:1.48207057;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 504.23163,643.05488 v 36.48024"
-       id="path4248"
-       inkscape:connector-curvature="0" />
+    <g
+       id="g4252"
+       transform="rotate(-180,504.22142,658.43131)">
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path3548"
+         d="m 504.23163,643.05488 v -4.12031"
+         style="fill:none;fill-rule:evenodd;stroke:#b3b3b3;stroke-width:1.0629921;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3552)" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4248"
+         d="m 504.23163,643.05488 v 36.48024"
+         style="fill:none;fill-rule:evenodd;stroke:#b3b3b3;stroke-width:1.48207057;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
   </g>
   <g
      inkscape:label="Silk Screen Template"
@@ -8420,6 +8424,24 @@
          id="path3538"
          inkscape:connector-curvature="0" />
     </g>
+    <circle
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       cx="681.38678"
+       cy="417.82712"
+       r="5.5147061"
+       id="circle4046" />
+    <circle
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       cx="459.93008"
+       cy="580.41278"
+       r="5.5147061"
+       id="circle4048" />
+    <circle
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.35433072;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       cx="858.55212"
+       cy="469.36755"
+       r="5.5147061"
+       id="circle4050" />
   </g>
   <g
      inkscape:groupmode="layer"
