@@ -1,0 +1,11 @@
+#.gitignore
+#ignore this bullshit
+
+shapes3D/
+*.wrl
+_autosave*
+*.bak
+Gerbers/*.gbp
+Gerbers/*.dxf
+Gerbers/*.svg
+
