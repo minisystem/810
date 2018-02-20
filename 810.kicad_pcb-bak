@@ -68,7 +68,7 @@
     (pad_to_mask_clearance 0.05)
     (pad_to_paste_clearance -0.05)
     (aux_axis_origin 0 0)
-    (visible_elements 7FFEF7FF)
+    (visible_elements 7FFFF7FF)
     (pcbplotparams
       (layerselection 0x010f0_80000001)
       (usegerberextensions true)
