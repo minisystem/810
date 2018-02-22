@@ -1791,9 +1791,9 @@
      borderopacity="0.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="0"
-     inkscape:zoom="0.98355445"
-     inkscape:cx="148.08128"
-     inkscape:cy="278.81359"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="249.93351"
+     inkscape:cy="214.12065"
      inkscape:document-units="mm"
      inkscape:current-layer="layer8"
      showgrid="false"
@@ -1822,8 +1822,8 @@
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:bbox-paths="true"
      inkscape:snap-text-baseline="true"
-     inkscape:measure-start="106.241,510.214"
-     inkscape:measure-end="106.241,501.157"
+     inkscape:measure-start="146.079,282.705"
+     inkscape:measure-end="146.079,486.501"
      inkscape:locked="false"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -3694,7 +3694,8 @@
      id="layer8"
      inkscape:label="Panel Graphics"
      style="display:inline"
-     transform="translate(-411.56394,-351.31891)">
+     transform="translate(-411.56394,-351.31891)"
+     sodipodi:insensitive="true">
     <path
        style="display:inline;opacity:1;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.34728491;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 842.62295,364.60843 c -4.45203,-7.2e-4 -8.06153,3.60823 -8.06213,8.0603 -7e-4,4.453 3.60915,8.06286 8.06213,8.06214 h 30.79835 c 4.4521,-6e-4 8.0609,-3.61008 8.0603,-8.06214 -6.9e-4,-4.45112 -3.6091,-8.05971 -8.0603,-8.0603 z m 15.29664,3.54309 h 0.002 c 1.01293,10e-6 1.84987,0.27224 2.50122,0.82031 0.65979,0.54852 1.03082,1.30922 1.10962,2.26319 l 0.005,0.0952 h -1.75416 -0.0696 l -0.0146,-0.0678 c -0.10532,-0.49281 -0.30275,-0.85167 -0.58594,-1.08947 -0.28318,-0.2378 -0.65749,-0.35889 -1.13709,-0.35889 -0.66538,0 -1.16828,0.24531 -1.53991,0.75073 -0.37164,0.50541 -0.56214,1.21558 -0.56214,2.13867 0,0.90793 0.18177,1.60801 0.53833,2.10572 0.36402,0.49773 0.85722,0.73974 1.50696,0.73974 0.52504,0 0.9313,-0.14017 1.23779,-0.41748 0.3064,-0.27721 0.48766,-0.67047 0.54016,-1.19568 l 0.007,-0.0787 h 1.86767 l -0.007,0.0934 c -0.0552,0.985 -0.41707,1.78185 -1.08399,2.36939 -0.66714,0.5798 -1.54216,0.86609 -2.60925,0.86609 -1.19474,0 -2.15572,-0.40491 -2.8601,-1.21216 -0.70426,-0.81505 -1.05469,-1.9187 -1.05469,-3.29407 0,-1.38317 0.35345,-2.48812 1.06567,-3.30322 0.71214,-0.81501 1.68659,-1.22498 2.89673,-1.22498 z m -11.90735,0.13916 h 1.94458 l 1.81092,6.1377 1.77612,-6.1377 h 1.94091 l -2.93701,8.56934 -0.0238,0.0604 h -1.59851 z m 18.98255,0 h 2.04894 l 2.98463,8.62976 h -1.97388 l -0.55664,-1.70471 h -3.03773 l -0.56762,1.70471 h -1.96289 z m 0.98876,2.36389 -0.97595,2.93335 h 1.95556 z"
@@ -3959,14 +3960,14 @@
        id="text27253"
        y="770.70288"
        x="504.22751"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:9.70425034px;line-height:100%;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#fa4616;fill-opacity:1;stroke:none;stroke-width:1.13499999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:9.70425034px;line-height:100%;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#fa4616;fill-opacity:1;stroke:none;stroke-width:1.13499999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:9.70425034px;line-height:100%;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#fa4616;fill-opacity:1;stroke-width:1.13499999px;"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:9.70425034px;line-height:100%;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#fa4616;fill-opacity:1;stroke-width:1.13499999px"
          y="770.70288"
          x="504.22751"
          id="tspan27251"
          sodipodi:role="line">VCO</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:9.70425034px;line-height:100%;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#fa4616;fill-opacity:1;stroke-width:1.13499999px;"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:9.70425034px;line-height:100%;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#fa4616;fill-opacity:1;stroke-width:1.13499999px"
          y="780.4071"
          x="504.22751"
          sodipodi:role="line"
@@ -4035,7 +4036,7 @@
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:9.70425034px;line-height:12500%;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#b3b3b3;fill-opacity:1;stroke-width:1.13499999px">MOD 2</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:9.70425034px;line-height:100%;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#fa4616;fill-opacity:1;stroke:none;stroke-width:1.13499999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:9.70425034px;line-height:100%;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#fa4616;fill-opacity:1;stroke:none;stroke-width:1.13499999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="681.34076"
        y="770.70288"
        id="text29671"><tspan
@@ -4043,11 +4044,11 @@
          id="tspan29669"
          x="681.34076"
          y="770.70288"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:9.70425034px;line-height:100%;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#fa4616;fill-opacity:1;stroke-width:1.13499999px;">VCF</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:9.70425034px;line-height:100%;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#fa4616;fill-opacity:1;stroke-width:1.13499999px">VCF</tspan><tspan
          sodipodi:role="line"
          x="681.34076"
          y="780.4071"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:9.70425034px;line-height:100%;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#fa4616;fill-opacity:1;stroke-width:1.13499999px;"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:9.70425034px;line-height:100%;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#fa4616;fill-opacity:1;stroke-width:1.13499999px"
          id="tspan26333">OUT</tspan></text>
     <text
        xml:space="preserve"
@@ -4105,7 +4106,7 @@
          y="782.45551"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:9.70425034px;line-height:12500%;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#b3b3b3;fill-opacity:1;stroke-width:1.13499999px">KYBD</tspan></text>
     <rect
-       style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#b3b3b3;stroke-width:1.00984253;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#b3b3b3;stroke-width:1.00984251;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect32448"
        width="31.053242"
        height="11.521041"
@@ -4191,14 +4192,14 @@
        id="text8696"
        y="770.70288"
        x="858.50616"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:9.70425034px;line-height:100%;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#fa4616;fill-opacity:1;stroke:none;stroke-width:1.13499999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:9.70425034px;line-height:100%;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#fa4616;fill-opacity:1;stroke:none;stroke-width:1.13499999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:9.70425034px;line-height:100%;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#fa4616;fill-opacity:1;stroke-width:1.13499999px;"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:9.70425034px;line-height:100%;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#fa4616;fill-opacity:1;stroke-width:1.13499999px"
          y="770.70288"
          x="858.50616"
          id="tspan8694"
          sodipodi:role="line">VCA</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:9.70425034px;line-height:100%;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#fa4616;fill-opacity:1;stroke-width:1.13499999px;"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:9.70425034px;line-height:100%;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#fa4616;fill-opacity:1;stroke-width:1.13499999px"
          y="780.4071"
          x="858.50616"
          sodipodi:role="line"
@@ -4546,7 +4547,7 @@
        sodipodi:cy="676.23828"
        sodipodi:cx="725.74597"
        sodipodi:type="arc"
-       style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#b3b3b3;stroke-width:1.77165357;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow2Sstart-5)"
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#b3b3b3;stroke-width:1.77165353;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow2Sstart-5)"
        sodipodi:open="true"
        sodipodi:arc-type="arc"
        id="path1576-7" />
@@ -6050,9 +6051,9 @@
        id="text9189"
        y="575.02319"
        x="658.06036"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:8.39417648px;line-height:12500%;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#fa4616;fill-opacity:1;stroke:none;stroke-width:0.98177499px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:8.39417648px;line-height:12500%;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#fa4616;fill-opacity:1;stroke:none;stroke-width:0.98177499px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:8.39417648px;line-height:12500%;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#fa4616;fill-opacity:1;stroke-width:0.98177499px;"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:8.39417648px;line-height:12500%;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#fa4616;fill-opacity:1;stroke-width:0.98177499px"
          y="575.02319"
          x="658.06036"
          id="tspan9187"
@@ -6066,7 +6067,7 @@
        y="567.03107" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:8.39417648px;line-height:12500%;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#fa4616;fill-opacity:1;stroke:none;stroke-width:0.98177499px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:8.39417648px;line-height:12500%;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#fa4616;fill-opacity:1;stroke:none;stroke-width:0.98177499px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="746.73077"
        y="575.02319"
        id="text9203"><tspan
@@ -6074,7 +6075,7 @@
          id="tspan9201"
          x="746.73077"
          y="575.02319"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:8.39417648px;line-height:12500%;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#fa4616;fill-opacity:1;stroke-width:0.98177499px;">SUB</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:8.39417648px;line-height:12500%;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#fa4616;fill-opacity:1;stroke-width:0.98177499px">SUB</tspan></text>
     <rect
        y="567.03107"
        x="744.66956"
@@ -6086,9 +6087,9 @@
        id="text9209"
        y="575.02319"
        x="835.85535"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:8.39417648px;line-height:12500%;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#fa4616;fill-opacity:1;stroke:none;stroke-width:0.98177499px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:8.39417648px;line-height:12500%;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#fa4616;fill-opacity:1;stroke:none;stroke-width:0.98177499px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:8.39417648px;line-height:12500%;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#fa4616;fill-opacity:1;stroke-width:0.98177499px;"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:8.39417648px;line-height:12500%;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#fa4616;fill-opacity:1;stroke-width:0.98177499px"
          y="575.02319"
          x="835.85535"
          id="tspan9207"
@@ -8843,7 +8844,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="PCB Edge"
-     style="display:inline"
+     style="display:none"
      transform="translate(-411.56394,-351.31891)"
      sodipodi:insensitive="true">
     <rect
