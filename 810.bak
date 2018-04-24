@@ -8305,4 +8305,6 @@ Text Notes 21350 18275 0    60   ~ 0
 100K?
 Text Notes 5175 6475 0    60   ~ 0
 MULTI-\nTURN
+Text Notes 17425 5250 2    60   ~ 0
+DELETE R89
 $EndSCHEMATC
