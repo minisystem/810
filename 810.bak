@@ -1542,7 +1542,7 @@ F 1 "100K" V 11825 6075 50  0000 C CNN
 F 2 "MyModules:TC33X-2" H 11800 6275 60  0001 C CNN
 F 3 "" H 11800 6275 60  0000 C CNN
 	1    11800 6275
-	0    1    -1   0   
+	0    1    1    0   
 $EndComp
 $Comp
 L R_US R59
