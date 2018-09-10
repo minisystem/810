@@ -7611,7 +7611,7 @@ CHANGE R73 to 150K
 Text Notes 3675 9850 0    60   ~ 0
 CHANGE R15 to 100K
 Text Notes 22475 11825 0    60   ~ 0
-CHANGE R15 to 180K
+CHANGE R15 to 220K?
 Text Notes 18500 18275 0    60   ~ 0
 CHANGE R105 to 100K
 Text Notes 1675 6700 0    60   ~ 0
@@ -8915,4 +8915,6 @@ Wire Wire Line
 Wire Wire Line
 	17500 18000 17500 16525
 Connection ~ 17825 16525
+Text Notes 18600 12600 0    60   ~ 0
+DELETE R106
 $EndSCHEMATC
