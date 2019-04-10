@@ -1838,7 +1838,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="0"
      inkscape:zoom="1.1748285"
-     inkscape:cx="290.4434"
+     inkscape:cx="89.563016"
      inkscape:cy="284.6781"
      inkscape:document-units="mm"
      inkscape:current-layer="layer11"
@@ -1951,7 +1951,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
       </cc:Work>
@@ -5452,7 +5452,7 @@
            height="123.98746"
            x="-123.98746"
            y="109.08075" /></flowRegion><flowPara
-         id="flowPara80502"></flowPara></flowRoot>    <rect
+         id="flowPara80502" /></flowRoot>    <rect
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect12053"
        width="230.02791"
@@ -5473,7 +5473,7 @@
            width="100%"
            height="100%" /></flowRegion><flowPara
          id="flowPara83232">The System80 810 is a Eurorack format synthesizer voice module.  It combines a Voltage Controlled Oscil- lator (VCO), a Voltage Controlled Filter (VCF) and a Voltage Controlled Amplifier (VCA) with convenient normalized connections between sections.  Adding modulation from a modulation source such as an LFO or Envelope Generator module allows the creation of a classic subtractive analog synthesizer voice.  The 810's circuits are inspired by the golden age of 'Japanese Analog', including the classic designs used in the Sys-tem 700, System 100M and Jupiter-8.</flowPara><flowPara
-         id="flowPara83236"></flowPara><flowPara
+         id="flowPara83236" /><flowPara
          id="flowPara83238">The VCO is a traditional temperature compensated saw core design with wave shaping circuitry that generates a </flowPara></flowRoot>    <rect
        y="39.113319"
        x="97.251549"
@@ -5493,12 +5493,12 @@
            width="100%"
            height="100%" /></flowRegion><flowPara
          id="flowPara83289">triangle wave with a small reset glitch. The triangle wave  is  'clipped' by a diode circuit to generate an approx-imate sine wave.</flowPara><flowPara
-         id="flowPara83291"> </flowPara><flowPara
+         id="flowPara83291" /><flowPara
          id="flowPara83293">The VCF is a classic OTA circuit that works and sounds</flowPara><flowPara
          id="flowPara83295">very much like vintage filters based on the IR3109 quad</flowPara><flowPara
          id="flowPara83297">OTA chip.  The VCF has both 24 dB and 12 dB slopes</flowPara><flowPara
          id="flowPara83299">and will self-oscillate and track about 3 octaves at max-imum resonance.</flowPara><flowPara
-         id="flowPara83301"> </flowPara><flowPara
+         id="flowPara83301" /><flowPara
          id="flowPara83309">The VCA is another traditional  OTA design similar to vintage VCAs using the BA662 or CA3080  OTAs. The VCA can be set to have a linear or exponential reponse to control voltage.   </flowPara></flowRoot>    <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
@@ -5558,7 +5558,7 @@
            transform="translate(486.63209,92.963858)"
            width="100%"
            height="100%" /></flowRegion><flowPara
-         id="flowPara83354">The 810 uses a standard 10 pin non-shrouded/non-keyed power connector.  A standard 10 pin Eurorack power cable is supplied. The red stripe on the power cable indicates the position of the −12 V conductor.  When connecting the power cable ensure that the red stripe side of the cable is aligned with the thick line next to power header on the back of the 810's circuit board.  Connnect the 10 pin connector to the 810's power header and connect the 16 pin connector to your system's power bus board.</flowPara></flowRoot>  </g>
+         id="flowPara83354">The 810 uses a standard 10 pin non-shrouded/non-keyed power connector.  A standard 10 pin Eurorack power cable is supplied. The red stripe on the power cable indicates the position of the −12 V conductor.  When connecting the power cable ensure that the red stripe side of the cable is aligned with the thick line next to the power header on the back of the 810's circuit board.  Connnect the 10 pin connector to the 810's power header and connect the 16 pin connector to your system's power bus board.</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
