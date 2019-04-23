@@ -1735,9 +1735,9 @@
      borderopacity="0.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="0"
-     inkscape:zoom="1.1748285"
-     inkscape:cx="290.7828"
-     inkscape:cy="281.48832"
+     inkscape:zoom="1.6614584"
+     inkscape:cx="340.80739"
+     inkscape:cy="291.36248"
      inkscape:document-units="mm"
      inkscape:current-layer="layer11"
      showgrid="false"
@@ -6476,7 +6476,21 @@
      id="layer11"
      inkscape:label="manual text"
      transform="translate(217.74823,54.376824)">
-    <g
+    <flowRoot
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.62499619px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.49999985px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.23031488;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="flowRoot4590"><flowRegion
+         id="flowRegion4592"><use
+           x="0"
+           y="0"
+           xlink:href="#rect99538"
+           id="use4594"
+           width="100%"
+           height="100%" /></flowRegion><flowPara
+         id="flowPara4596">With no signal present at the PW MOD input,      ,the knob adjusts the pluse waveform's width from 50% (square wave) up to 5%. At higher frequencies the minimum pulse width will go to 0% (no out-put).</flowPara><flowPara
+         id="flowPara4598" /><flowPara
+         id="flowPara4600" /><flowPara
+         id="flowPara4602" /></flowRoot>    <g
        style="display:inline"
        id="g16053"
        transform="matrix(0.00899999,0,0,0.00899999,-463.11779,-250.14159)">
@@ -7038,7 +7052,7 @@
          y="207.71242"
          id="tspan32500" /></text>
     <g
-       transform="matrix(0.00899999,0,0,0.00899999,-525.58428,50.252728)"
+       transform="matrix(0.00899999,0,0,0.00899999,-525.58428,51.595255)"
        id="g32548"
        style="display:inline">
       <ellipse
@@ -7275,18 +7289,6 @@
          id="flowPara4588">Fine tune adjustment from −12 to +12 semitones.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.62499619px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.49999985px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.23031488;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="flowRoot4590"><flowRegion
-         id="flowRegion4592"><use
-           x="0"
-           y="0"
-           xlink:href="#rect99538"
-           id="use4594" /></flowRegion><flowPara
-         id="flowPara4596">With no signal present at the PW MOD input,      ,the knob adjusts the pluse wave-form's width from 50% (square wave) up to 5%. At higher frequencies the minimum pulse width will go to 0% (no out-put).</flowPara><flowPara
-         id="flowPara4598" /><flowPara
-         id="flowPara4600" /><flowPara
-         id="flowPara4602" /></flowRoot>    <flowRoot
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.62499619px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.49999985px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.23031488;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot4604"><flowRegion
          id="flowRegion4606"><use
            x="0"
@@ -7319,8 +7321,10 @@
            x="0"
            y="0"
            xlink:href="#rect99699"
-           id="use4632" /></flowRegion><flowPara
-         id="flowPara4634">Sets the synchronization type to Weak (W) or Strong (S).  Weak synchronization willforce the VCO to lock to interger or fractional multiples of the master frequency, with the reset occuring near the waveform's maximum value. Strong synchronization forces the VCO to reset with every cycle of the master, regardless of where it is in its waveform cycle.</flowPara><flowPara
+           id="use4632"
+           width="100%"
+           height="100%" /></flowRegion><flowPara
+         id="flowPara4634">Sets the synchronization type to Weak (W) or Strong (S).  Weak synchronization will force the VCO to lock to interger or fractional multiples of the master frequency, with the reset occuring near the waveform's maximum value. Strong synchronization forces the VCO to reset with every cycle of the master, regardless of where it is in its waveform cycle.</flowPara><flowPara
          id="flowPara4636" /><flowPara
          id="flowPara4638" /><flowPara
          id="flowPara4640" /><flowPara

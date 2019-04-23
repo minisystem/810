@@ -8,7 +8,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="177.79999mm"
@@ -1687,9 +1686,9 @@
      borderopacity="0.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="0"
-     inkscape:zoom="1.6614584"
-     inkscape:cx="263.10481"
-     inkscape:cy="349.46138"
+     inkscape:zoom="2.349657"
+     inkscape:cx="330.87454"
+     inkscape:cy="409.56379"
      inkscape:document-units="mm"
      inkscape:current-layer="layer11"
      showgrid="false"
@@ -5354,7 +5353,7 @@
          y="195.12503"
          x="-146.28008"
          sodipodi:role="line"
-         id="tspan58881">        −5 V to +5 V</tspan><tspan
+         id="tspan58881">        −4 V to +4 V</tspan><tspan
          style="font-size:10.62499905px;line-height:150%;stroke-width:0.23031494"
          y="211.06253"
          x="-146.28008"
@@ -5560,7 +5559,7 @@
          x="-146.2943"
          sodipodi:role="line"
          style="font-size:10.62499905px;line-height:150%;stroke-width:0.23031494"
-         id="tspan58995">Depth: 32 MM (incl. power connector)</tspan><tspan
+         id="tspan58995">Depth: 30 MM (incl. power connector)</tspan><tspan
          id="tspan58991"
          y="78.875191"
          x="-146.2943"
@@ -5634,23 +5633,6 @@
        id="path4305"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
-    <path
-       sodipodi:nodetypes="cc"
-       inkscape:connector-curvature="0"
-       id="path83311"
-       d="m -146.29766,224.99776 473.73253,-0.79798"
-       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.67940772;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.46875006px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.28346461;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       x="-146.29767"
-       y="242.51013"
-       id="text83315"><tspan
-         id="tspan83313"
-         sodipodi:role="line"
-         x="-146.29767"
-         y="242.51013"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.46875006px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.28346461;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Calibration</tspan></text>
     <rect
        y="251.83356"
        x="-146.39523"
@@ -5665,40 +5647,7 @@
        height="178.35455"
        x="91.166397"
        y="251.83356" />
-    <flowRoot
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.62499619px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.49999985px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.23031488;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="flowRoot90745"
-       transform="translate(-295.53773,-183.0606)"><flowRegion
-         id="flowRegion90747"><use
-           x="0"
-           y="0"
-           xlink:href="#rect83317"
-           id="use90749"
-           transform="translate(295.53773,183.0606)"
-           width="100%"
-           height="100%" /></flowRegion><flowPara
-         id="flowPara90751">The 810's VCO is calibrated to track at 1 V/octave over a range of approximatley 6-8 octaves within a tolerance of ±5 cents.  When troubleshooting pitch and tracking issues ensure that you are using an accurate 1 V/octave CV source that is not subject to loading by being fanned out through multiples. </flowPara><flowPara
-         id="flowPara90753" /><flowPara
-         id="flowPara90755">When self-oscillating the VCF is calibrated to track at 1 V/octave over a range of about 3-4 octaves starting at around middle C (261.6 Hz).</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.62499619px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.49999985px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.23031488;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="flowRoot90757"
-       transform="translate(-295.53773,-183.0606)"><flowRegion
-         id="flowRegion90759"><use
-           x="0"
-           y="0"
-           xlink:href="#rect83344"
-           id="use90761"
-           transform="translate(295.53773,183.0606)"
-           width="100%"
-           height="100%" /></flowRegion><flowPara
-         id="flowPara90763">The pitch of both the VCO and the self-oscillating VCF will drift over time as the 810 warms up.  About 20 minutes after warm up the VCO pitch should remain stable to within a few cents of the initial frequency.</flowPara><flowPara
-         id="flowPara90765" /><flowPara
-         id="flowPara90767">From time to time the VCO and VCF may need to be calibrated.  Instructions for calibration are available on the 810's Github page: </flowPara><flowPara
-         id="flowPara90769" /><flowPara
-         id="flowPara90771"
-         style="font-style:italic">http://github.com/minisystem/810  </flowPara></flowRoot>  </g>
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"

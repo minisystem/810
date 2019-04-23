@@ -1688,7 +1688,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="0"
      inkscape:zoom="1.6614584"
-     inkscape:cx="311.58108"
+     inkscape:cx="193.61243"
      inkscape:cy="266.88"
      inkscape:document-units="mm"
      inkscape:current-layer="layer11"
@@ -1850,7 +1850,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
       </cc:Work>
@@ -5368,8 +5368,8 @@
     <rect
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect83344"
-       width="230.02792"
-       height="178.35455"
+       width="230.02794"
+       height="235.90942"
        x="91.166397"
        y="199.11925" />
     <flowRoot
@@ -5398,12 +5398,10 @@
            transform="translate(295.53773,235.77492)"
            width="100%"
            height="100%" /></flowRegion><flowPara
-         id="flowPara90763">Connect an accurate 1 V/octave CV source to the VCF MOD1 input and turn the attenuator fully clockwise.  Connect the output of the VCF to the input of your digital tuning device.  Turn both the IN 1 and IN 2 knobs fully counter clockwise and turn the Resonance knob fully clockwise.  With 0 V applied to the CV input, adjust the Frequency knob so that the pitch is middle C (261.6 Hz).  Increase the CV to 3 V and read the pitch. It should be 3 octaves higher within 5 cents.  Use the VCF SCALE trimmer next to the VCF IN 1 jack on the front panel to adjust the scaling.  Switch the CV back to 0 V, ready the pitch, switch back to 3 V and adjust the SCALE trimmer. Repeat these steps until the pitch at 0 V and the pitch at 3 V are 3 octaves part within 5 cents.</flowPara><flowPara
-         id="flowPara90765" /><flowPara
-         id="flowPara90767">From time to time the VCO and VCF may need to be calibrated.  Instructions for calibration are available on the 810's Github page: </flowPara><flowPara
-         id="flowPara90769" /><flowPara
+         id="flowPara90763">Connect an accurate 1 V/octave CV source to the VCF MOD1 input and turn the attenuator fully clockwise.  Connect the output of the VCF to the input of your digital tuning device.  Turn both the IN 1 and IN 2 knobs fully counter clockwise and turn the Resonance knob fully clockwise.  With 0 V applied to the CV input, adjust the Frequency knob so that the pitch is middle C (261.6 Hz).  Increase the CV to 3 V and read the pitch. It should be 3 octaves higher within -10 cents.  Use the VCF SCALE trimmer next to the VCF IN 1 jack on the front panel to adjust the scaling.  Switch the CV back to 0 V, ready the pitch, switch back to 3 V and adjust the SCALE trimmer. Repeat these steps until the pitch at 0 V and the pitch at 3 V are 3 octaves part within 10 cents.</flowPara><flowPara
+         id="flowPara53654" /><flowPara
          id="flowPara90771"
-         style="font-style:italic">http://github.com/minisystem/810  </flowPara></flowRoot>    <rect
+         style="font-style:normal">NOTE: filter tracking at 1 V/octave does not have the same range or stability as VCO 1 V/octave tracking.</flowPara></flowRoot>    <rect
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect6299"
        width="230.02792"
@@ -5425,10 +5423,12 @@
            x="0"
            y="0"
            xlink:href="#rect6299"
-           id="use6335" /></flowRegion><flowPara
+           id="use6335"
+           width="100%"
+           height="100%" /></flowRegion><flowPara
          id="flowPara6337">The 810's VCO is calibrated to track at 1 V/octave over a range of approximatley 6-8 octaves within a tolerance of ±5 cents.  When troubleshooting pitch and tracking issues ensure that you are using an accurate 1 V/octave CV source that is not subject to loading by being fanned out through multiples. </flowPara><flowPara
          id="flowPara6339" /><flowPara
-         id="flowPara6341">When self-oscillating the VCF is calibrated to track at 1 V/octave over a range of about 3-4 octaves starting at around middle C (261.6 Hz).</flowPara></flowRoot>    <flowRoot
+         id="flowPara6341">When self-oscillating the VCF is calibrated to track at 1 V/octave over a range of about 3 octaves starting at around middle C (261.6 Hz).</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.62499619px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.49999985px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.23031488;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot6343"><flowRegion

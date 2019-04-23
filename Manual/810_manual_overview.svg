@@ -1837,9 +1837,9 @@
      borderopacity="0.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="0"
-     inkscape:zoom="1.1748285"
-     inkscape:cx="89.563016"
-     inkscape:cy="284.6781"
+     inkscape:zoom="1.6614584"
+     inkscape:cx="293.75177"
+     inkscape:cy="383.75821"
      inkscape:document-units="mm"
      inkscape:current-layer="layer11"
      showgrid="false"
@@ -5433,14 +5433,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:21.25000763px;line-height:21.25000191px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:-0.93749994px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93749994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-66.336876"
+       x="-89.223694"
        y="-9.6177416"
        id="text4410"><tspan
          sodipodi:role="line"
-         x="-66.336876"
+         x="-89.223694"
          y="-9.6177416"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:21.25000763px;line-height:21.25000191px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:-0.93749994px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93749994px"
-         id="tspan26684">810 Eurorack Analog Voice Module</tspan></text>
+         id="tspan26684">810 Eurorack Synthesizer Voice Module</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot80496"
@@ -5472,7 +5472,7 @@
            transform="translate(486.63209,92.963858)"
            width="100%"
            height="100%" /></flowRegion><flowPara
-         id="flowPara83232">The System80 810 is a Eurorack format synthesizer voice module.  It combines a Voltage Controlled Oscil- lator (VCO), a Voltage Controlled Filter (VCF) and a Voltage Controlled Amplifier (VCA) with convenient normalized connections between sections.  Adding modulation from a modulation source such as an LFO or Envelope Generator module allows the creation of a classic subtractive analog synthesizer voice.  The 810's circuits are inspired by the golden age of 'Japanese Analog', including the classic designs used in the Sys-tem 700, System 100M and Jupiter-8.</flowPara><flowPara
+         id="flowPara83232">The System80 810 is a Eurorack format synthesizer voice module.  It combines a Voltage Controlled Oscil- lator (VCO), a Voltage Controlled Filter (VCF) and a Voltage Controlled Amplifier (VCA) with convenient normalized connections between sections.  Adding modulation from a modulation source such as an LFO or Envelope Generator module allows the creation of a classic subtractive analog synthesizer voice.  The 810's circuits are inspired by the golden age of 'Japanese Analog', including circuits from the System 700, System 100M and Jupiter-8.</flowPara><flowPara
          id="flowPara83236" /><flowPara
          id="flowPara83238">The VCO is a traditional temperature compensated saw core design with wave shaping circuitry that generates a </flowPara></flowRoot>    <rect
        y="39.113319"

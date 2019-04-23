@@ -1795,9 +1795,9 @@
      borderopacity="0.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="0"
-     inkscape:zoom="1.1748285"
-     inkscape:cx="162.43189"
-     inkscape:cy="354.05754"
+     inkscape:zoom="1.6614584"
+     inkscape:cx="367.24225"
+     inkscape:cy="185.75906"
      inkscape:document-units="mm"
      inkscape:current-layer="layer11"
      showgrid="false"
@@ -7321,8 +7321,10 @@
            x="0"
            y="0"
            xlink:href="#rect99844"
-           id="use2202" /></flowRegion><flowPara
-         id="flowPara2204">Adjusts the level of the audio app-lied to the  IN 1 jack.  Normalized to VCO Output.</flowPara></flowRoot>    <flowRoot
+           id="use2202"
+           width="100%"
+           height="100%" /></flowRegion><flowPara
+         id="flowPara2204">Adjusts the level of the audio app-lied to the IN 1 jack.  Normalized to VCO Output.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.62499619px;line-height:110.00000238%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:-0.49999985px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.23031488;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="flowRoot2206"><flowRegion
